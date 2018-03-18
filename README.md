@@ -3,6 +3,11 @@ A music jukebox based on Raspberry Pi and controlled by QR-Code playing cards.
 
 ![qr-code-sample](docs/qr-sample-cards.jpg)
 
+## State of project
+
+This project is a *proof-of-concept*, which is not finished. 
+I published my current state of research to inspire/support other creators. There is no current development.  
+
 
 ## Vision
 There is an interactive *item* in the living room with which you can play music. The only input are cards. 
@@ -101,9 +106,7 @@ config:
  
  * parse code with zxing in java
 
-
-### Motion-Auflösung
-http://www.raspberrypi.org/phpBB3/viewtopic.php?t=11334&p=132028
+See also: http://www.raspberrypi.org/phpBB3/viewtopic.php?t=11334&p=132028
 
 ### Alterantive: Mplayer
 Mplayer -slave starts mplayer in the background and reads commands from a fifo-pipe. 
