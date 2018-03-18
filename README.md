@@ -1,7 +1,7 @@
 # Cards Jukebox
 A music jukebox based on Raspberry Pi and controlled by QR-Code playing cards. 
 
-![qr-code-sample](docs/qr-code-sample.jpg)
+![qr-code-sample](docs/qr-sample-cards.jpg)
 
 
 ## Vision
